@@ -71,6 +71,6 @@ async function copyToClipboard(text){
 
 const openResume = document.querySelector('.resumeBtn');
 function openPDF() {
-    window.open('https://Michelle-mm.github.io/portfolio/myResume.pdf', '_blank');
+    window.open('https://Michelle0106.github.io/portfolio/myResume.pdf', '_blank');
 }
 openResume.onclick = openPDF;
